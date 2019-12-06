@@ -1,0 +1,49 @@
+[ {
+  "firstName" : "Ankit",
+  "lastName" : "barpete",
+  "address" : "asff",
+  "city" : "dsfasf",
+  "state" : "fasdf",
+  "zipcode" : 4564,
+  "phoneNumber" : 8770709694
+}, {
+  "firstName" : "ankush",
+  "lastName" : "kumar",
+  "address" : "sfas",
+  "city" : "ffasf",
+  "state" : "afas",
+  "zipcode" : 46464,
+  "phoneNumber" : 99988774445
+}, {
+  "firstName" : "bob",
+  "lastName" : "sadsdf",
+  "address" : "dfds",
+  "city" : "fsdfds",
+  "state" : "fds",
+  "zipcode" : 64646,
+  "phoneNumber" : 1456496
+}, {
+  "firstName" : "prem",
+  "lastName" : "sai",
+  "address" : "dsfsf",
+  "city" : "dsgfdarg",
+  "state" : "gdfg",
+  "zipcode" : 56496,
+  "phoneNumber" : 4964646
+}, {
+  "firstName" : "sachin",
+  "lastName" : "barpete",
+  "address" : "asfa",
+  "city" : "sasfasd",
+  "state" : "afas",
+  "zipcode" : 6464,
+  "phoneNumber" : 8109555221
+}, {
+  "firstName" : "john",
+  "lastName" : "sparow",
+  "address" : "vashi",
+  "city" : "mumbai",
+  "state" : "maharastra",
+  "zipcode" : 462020,
+  "phoneNumber" : 81095555221
+} ]
